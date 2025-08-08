@@ -1,8 +1,10 @@
 # 📘 Desafio de 30 Dias - Python para Análise de Dados
 
 Olá! Este repositório acompanha meu desafio pessoal de 30 dias estudando o livro **"Python para Análise de Dados – 3ª edição"** do Wes McKinney.
-<img width="292" height="400" alt="image" src="https://github.com/user-attachments/assets/0faaea6d-86ee-4985-89bd-9844b00c098e" />
 
+<p align="center">
+  <img width="292" height="400" alt="image" src="https://github.com/user-attachments/assets/0faaea6d-86ee-4985-89bd-9844b00c098e" />
+</p>
 
 ## 🎯 Objetivo
 Aprofundar meus conhecimentos em análise de dados com Python e documentar meu progresso diariamente.
