@@ -33,7 +33,7 @@ Estou compartilhando minha rotina de estudos diariamente no [meu LinkedIn](https
 
 ---
 
-📍 *Início do desafio:* 07/08/2025  
+📍 *Início do desafio:* 08/08/2025  
 📍 *Término previsto:* 05/09/2025
 
 ---
