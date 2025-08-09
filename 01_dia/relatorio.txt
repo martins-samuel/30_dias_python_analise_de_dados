@@ -1,0 +1,11 @@
+🚀 Dia 1 – Projeto de Análise de Dados com Python
+Hoje dei o primeiro passo no meu novo projeto de estudo em Análise de Dados! 📊🐍
+Neste primeiro dia, me concentrei em configurar todo o ambiente de desenvolvimento. Aqui está o que eu fiz:
+✅ Instalei o Miniconda, uma versão mais leve do Anaconda, ideal para gerenciar ambientes e pacotes com eficiência.
+✅ Criei um novo ambiente isolado com o conda para manter meu projeto organizado.
+✅ Instalei os principais pacotes para análise de dados.
+🔧 Agora estou com tudo pronto para começar a manipular dados e criar visualizações com Pandas, Jupyter Notebook e Matplotlib.
+Esse é só o começo! Amanhã sigo com os primeiros notebooks do livro Python para Análise de Dados do Wes McKinney.
+📅 Acompanhe meu progresso neste desafio de 30 dias por aqui!
+📌 E no final deste post, segue um carrossel feito por mim explicando o que é o conda e por que escolhi o Miniconda para este projeto.
+hashtag#Python hashtag#DataAnalysis hashtag#Miniconda hashtag#Conda hashtag#Jupyter hashtag#Matplotlib hashtag#Pandas hashtag#DesenvolvimentoPessoal hashtag#30diasdepython
