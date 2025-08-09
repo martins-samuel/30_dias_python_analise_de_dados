@@ -1,0 +1,1 @@
+Capítulo 2 - Aspectos básicos da linguagem Python,Ipython e Jupyter Notebook 
