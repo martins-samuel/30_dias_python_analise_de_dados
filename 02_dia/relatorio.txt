@@ -1,1 +1,12 @@
 Capítulo 2 - Aspectos básicos da linguagem Python,Ipython e Jupyter Notebook 
+Dia 2 – Projeto de Análise de Dados com Python
+Hoje avancei mais um passo no meu desafio de 30 dias estudando o livro Python para Análise de Dados – 3ª edição.
+Como estou no início do curso, a parte de hoje foi tranquila, revisando conceitos que eu já conhecia sobre a linguagem. Aproveitei para dar o clássico "Hello, World!" e finalmente escapar da famosa “maldição” 😄.
+Também explorei o IPython e o Jupyter Notebook, concluindo o Capítulo 2 – Aspectos básicos da linguagem Python, IPython e Jupyter Notebook.
+📚 Principais pontos do dia:
+Ativação do ambiente Conda e uso do IPython.
+Geração de dados aleatórios com NumPy.
+Revisão sobre variáveis e referências em Python.
+Execução do primeiro notebook no Jupyter.
+💻 Repositório do projeto:
+ 🔗 https://lnkd.in/dwGjjj8k

@@ -1,0 +1,12 @@
+🚀 Dia 3 – Projeto de Análise de Dados com Python
+Hoje continuei meu desafio de 30 dias estudando o livro Python para Análise de Dados – 3ª edição.
+O foco do dia foi o Capítulo 3 – Estruturas de Dados, Funções e Arquivos, revisando e praticando a manipulação dessas estruturas no Python. Foi um conteúdo tranquilo, mas muito importante para consolidar a base antes de avançar para análises mais complexas.
+📚 Principais pontos do dia:
+
+Revisão e prática com listas, tuplas, dicionários e conjuntos.
+
+Desempacotamento de variáveis e uso do operador *.
+
+Uso de métodos como .count() em tuplas.
+
+Criação e manipulação de dicionários com pares chave-valor.
