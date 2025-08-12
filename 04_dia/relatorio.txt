@@ -1,0 +1,8 @@
+🚀 Dia 4 de 30 – Projeto de Análise de Dados com Python
+Hoje avancei mais uma etapa no meu desafio de 30 dias estudando o livro Python para Análise de Dados – 3ª edição.
+Comecei o dia finalizando o estudo sobre dicionários, consolidando o entendimento dessa estrutura essencial no Python.
+ Em seguida, mergulhei no universo das funções, explorando desde a criação básica até diferentes formas e recursos que elas oferecem para tornar o código mais organizado e reutilizável.
+📚 Principais pontos do dia:
+Revisão e conclusão do estudo de dicionários.
+Criação de funções e compreensão de suas vertentes.
+Aplicação prática com exemplos para fixação.
